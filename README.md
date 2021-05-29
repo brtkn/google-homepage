@@ -4,4 +4,4 @@
 
 -deconstruct and rebuild the site
 
--I changed my html and css after I saw this https://github.com/CatQueenCodes/google-homepage2  
+-I've changed my html and css after I saw this https://github.com/CatQueenCodes/google-homepage2  
